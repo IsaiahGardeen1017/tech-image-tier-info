@@ -1,0 +1,20 @@
+[h1]Tech Image Tier Info[/h1]
+
+Tech Image Tier Info adds useful information to Tech thumbnails, making it easier to control tech pools and beelines.
+
+A colored border shows the technology tier.
+The colors/tier mapping is from Fortnite:
+    - Gray: Tier 0
+    - Green: Tier 1
+    - Blue: Tier 2
+    - Purple: Tier 3
+    - Orange: Tier 4
+    - Yellow: Tier 5
+
+Each Verticle Bar along the top indicates a tech depending on the depicted tech and the color of each bar coorsponds to the tier.
+
+The orange dot that may appear at the bottom indicates that the tech is on the path to Mega Engineering
+
+
+[h2]Ironman Compatible[/h2]
+This mod just overwrites the tech image files.

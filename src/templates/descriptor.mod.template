@@ -1,0 +1,9 @@
+name="Tech Image Tier Info"
+version="{{MOD_VERSION}}"
+tags={
+	"Graphics"
+	"Utilities"
+}
+picture="thumbnail.png"
+supported_version="{{SUPPORTED_VERSION}}"
+{{REMOTE_FILE_ID}}

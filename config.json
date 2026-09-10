@@ -1,0 +1,37 @@
+{
+    "gamePath": "F:/SteamLibrary/steamapps/common/Stellaris",
+    "imageMagickCommand": "magick",
+    "workshop": {
+        "modVersion": "1.0.0",
+        "remoteFileId": ""
+    },
+    "colors": {
+        "1": "#239d35",
+        "2": "#139ad4",
+        "3": "#b73fcf",
+        "4": "#f8841f",
+        "5": "#ffff6d",
+        "0": "#787575"
+    },
+    "importantTechnologies": {
+        "tech_mega_engineering": "#ffcf81"
+    },
+    "importantTechDots": {
+        "size": 5,
+        "borderThickness": 1,
+        "gapThickness": 1,
+        "bottomInset": 2
+    },
+    "border": {
+        "thickness": 3
+    },
+    "bars": {
+        "thickness": 5,
+        "height": 12,
+        "gapThickness": 1,
+        "rightInset": 0,
+        "startY": 0,
+        "backgroundColor": "#040404",
+        "backgroundPadding": 1
+    }
+}

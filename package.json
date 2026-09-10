@@ -1,0 +1,24 @@
+{
+    "name": "tech-image-tier-info",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "description": "Generates tier borders and technology dependency bars for Stellaris technology icons.",
+    "scripts": {
+        "build": "tsc --noEmit",
+        "build-mod": "tsx src/index.ts",
+        "build-samples": "tsx src/index.ts --samples-only",
+        "test": "tsx --test test/*.test.ts"
+    },
+    "dependencies": {
+        "archiver": "^7.0.1",
+        "pngjs": "^7.0.0"
+    },
+    "devDependencies": {
+        "@types/archiver": "^6.0.3",
+        "@types/node": "^24.0.0",
+        "@types/pngjs": "^6.0.5",
+        "tsx": "^4.20.0",
+        "typescript": "^5.9.0"
+    }
+}
