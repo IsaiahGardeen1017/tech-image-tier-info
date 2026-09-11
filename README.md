@@ -1,4 +1,4 @@
-# Tech Image Tier Info
+# Tech Image Tier Info Stellaris Mod Generator
 
 ![Tech Image Tier Info thumbnail](src/templates/thumbnail.png)
 
@@ -32,10 +32,9 @@ C:/SteamLibrary/steamapps/common/Stellaris
 
 ## Build the mod
 
-`build` will generate a tech_image_tier_info.mod file and a
-tech_image_tier_info folder containign the mod contents. You can copy these into
-your Documents\Paradox Interactive\Stellaris\mod folder to use the generated
-mod.
+`build` will generate a tech_image_tier_info.mod file and a tech_image_tier_info
+folder containign the mod contents. You can copy these into your
+Documents\Paradox Interactive\Stellaris\mod folder to use the generated mod.
 
 ```bash
 npm run build
